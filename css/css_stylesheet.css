@@ -17,7 +17,7 @@ body {
 }
 
 h2,h3 {
-    font-family: "megrim";
+    font-family: "avenir";
     color: #31728C; 
     font-size: 2.35em;
     line-height: 1.5;
@@ -30,7 +30,7 @@ h2{
 h1 {
     color:black;
     font-size: 4.2em;
-    font-family: "megrim";
+    font-family: "avenir";
     text-align: center;
     background color: #F0FCFF;
     padding: 3px;
@@ -48,7 +48,7 @@ p {
 ul li{
     display: inline-block;
     text-align: right;
-    font-family: "megrim"; 
+    font-family: "avenir"; 
 }
 
 a:hover{
